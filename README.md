@@ -1,6 +1,5 @@
 # DsDeliver
-**O DsDeliver foi desenvolvido na Semana DevSuperior 3, sendo composto por uma página Web com a funcionalidade de ser verificado no Banco de Dados as 
-informações por meio de gráficos e uma planilha os dados de compras de uma determinada loja fictícia.**
+**O DsDeliver foi desenvolvido na Semana DevSuperior 2, sendo composto por uma página Web com a funcionalidade de ser verificado no Banco de Dados os pedidos de um restaurante fictício e um aplicativo mobile para que o empregador receba os dados do pedido e endereço de entrega.**
 
 ## Índice
 * [_Configuração_](#Configuração)
@@ -38,6 +37,8 @@ npm run build
 * Pelo terminal entre na pasta **front-mobile** e rode o código:
 ``` 
 npm i
+```
+```
 npm run start
 ```
   -  Irá abrir a página do Expo 
@@ -47,7 +48,7 @@ npm run start
 ---
 ## Resultados
 <p align="center">
-  <a href="https://mthonorio-dssales-sds3.netlify.app/"><img height="500" src="https://github.com/MtHonorio/DsDeliver/blob/main/others/img/dsdeliver.gif?raw=true"></a>
+  <a href="https://mthonorio-dssales-sds3.netlify.app/"><img height="450" src="https://github.com/MtHonorio/DsDeliver/blob/main/others/img/dsdeliver.gif?raw=true"></a>
 </p>
 
 <p align="center">
